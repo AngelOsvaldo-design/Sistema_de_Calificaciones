@@ -6,7 +6,7 @@ El código demuestra de forma práctica conceptos fundamentales de programación
 
 ---
 
-## 🚀 Características del Programa
+##  Características del Programa
 
 * **Listado dinámico:** Muestra todas las calificaciones almacenadas junto con la identificación de cada estudiante utilizando índices (`enumerate`).
 * **Acceso por índice:** Permite consultar la calificación de un estudiante específico de manera directa.
