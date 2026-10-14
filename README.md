@@ -1,5 +1,6 @@
 # Sistema de Calificaciones en Python 
 Hola soy Angel Moreno
+
 Este proyecto es una aplicación desarrollada en **Python** diseñada para gestionar, analizar y procesar un conjunto de calificaciones escolares mediante el uso de estructuras de datos lineales (**vectores o arreglos**).
 
 El código demuestra de forma práctica conceptos fundamentales de programación como el manejo de índices, operaciones estadísticas, estructuras condicionales y bucles de repetición.
